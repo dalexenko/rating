@@ -1,0 +1,43 @@
+﻿.form {
+	background-color : antiquewhite;	
+	color : navy;
+}
+BODY {
+	background-color : lavender;
+	scrollbar-base-color : lavender;
+	scrollbar-arrow-color : blue;
+	scrollbar-shadow-color : peachpuff;
+}
+
+	
+}
+.formlink {
+	background-color : lavender;
+	cursor : hand;
+	color : navy;
+	border : none;
+}
+
+HR {
+	background-color : peachpuff;
+	border : outset;
+	
+}
+H3 {
+	color : Navy;
+}
+.tablerating {
+background-color : peachpuff;
+width : 500px;
+}
+.tableview {
+	background-color : peachpuff;
+	border : 1px solid #000080;
+}
+.choiceview{
+	background-color : lavender;
+}
+
+
+
+
